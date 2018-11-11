@@ -1,6 +1,6 @@
 # JS Workshop November 2018
 
-!(image)[https://i.imgur.com/gK2EvZl.gif]
+![Penrose Triangle](https://i.imgur.com/gK2EvZl.gif)
 
 ## Goals
 
